@@ -23,9 +23,9 @@ This extension is not available in any browser extension store, but you can add 
 
 To do so, follow these three steps:
 
-1. Clone this reposetory
+1. Clone this repository
 2. Enable developer mode (chrome://extensions/#devModeLabel) in your Chromium Browser
-3. Click on "Load unpacked" and select the "src" folder of the downloaded reposetory
+3. Click on "Load unpacked" and select the "src" folder of the downloaded repository
 
 ---
 ## 🔮 Contributing
