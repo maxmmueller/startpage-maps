@@ -1,0 +1,4 @@
+.categories.css-1j2749q {
+    display: grid;
+    grid-template-columns: repeat(5, 20%);
+  }
