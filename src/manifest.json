@@ -12,8 +12,7 @@
   
   "content_scripts": [{
       "matches": ["https://www.startpage.com/sp/search/*", "https://www.startpage.com/do/search*"],
-      "js": ["content.js"],
-      "css": ["style.css"]
+      "js": ["content.js"]
   }],
 
   "permissions": [
