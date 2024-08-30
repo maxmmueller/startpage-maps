@@ -1,3 +1,6 @@
+## ⚠️ Important Notice
+#### This repository will no longer receive updates. The Startpage search engine now has a built-in maps option, making this extension obsolete.
+---
 <h1 align="center">
 <sub>
 <img src="src/icon/128.png" height="30">
@@ -17,8 +20,7 @@ Startpage Maps Extension
 <img src="images/search.jpg">
 </p>
 
----
-## ⚙️ Installation
+## Installation
 This extension is not available in any browser extension store, but you can add it to your browser as an unpacked extension.
 
 To do so, follow these three steps:
@@ -27,12 +29,5 @@ To do so, follow these three steps:
 2. Enable the developer mode in your Chromium Browser
 3. Click on "Load unpacked" and select the "src" folder of the downloaded repository
 
----
-## 🔮 Contributing
-Contributions to this project are welcome!
-
-If you encounter any problems, find a bug or have feature requests, please open an [issue](https://github.com/maxmmueller/startpage-maps/issues/new).
-
----
-## 📃 Licence
+## Licence
 Maximilian Müller 2023 [Apache License 2.0](LICENSE)
